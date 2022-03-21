@@ -33,16 +33,16 @@ function (actualAge){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input | Output   |
+| ------| ---------|
+|    1  | {humanYears: 1 catYears: 15 dogYears: 15}| 
+|    2  | humanYears: 2 catYears: 24 dogYears: 24 | 
+|    10 | humanYears: 10 catYears: 56 dogYears: 64 | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td> This program takes an actual age input and returns an output that calculates human years to cat and dog years. </td>
   </tr>
 </table>
 
